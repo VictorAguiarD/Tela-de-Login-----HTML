@@ -1,0 +1,70 @@
+*{
+    max-width: 1500px;
+}
+
+
+.nome1{
+    background-image: linear-gradient(to left, #000000, gray);
+    background-color: rgba(rgb(0, 0, 0));
+    height: 68px;
+    left: 0;
+    padding: 0 45px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 20;
+   
+
+}
+
+
+.Projeto{
+  display: block;
+    color: rgb(255, 255, 255);
+    margin-top: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Login{
+position: absolute;
+top: 50%;
+left: 50%;
+transform:translate(-50%,-50%) ;
+background-color: rgba(0, 0, 0,0.6);
+padding: 67px;
+color:white;
+border-radius: 34px;
+
+
+}
+
+.Button1{
+    color: rgb(5, 47, 254);
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+  
+    
+}
+
+input{
+    outline: none;
+    border: none;
+    font-size: 15px;
+    padding: 15px;
+}
+
+.Button1:hover{
+    background-color:rgb(128, 124, 124);
+}
+
+body{
+
+    background-image: linear-gradient(to left, #000000, gray);
+}
+
+.link{
+    text-decoration: none;
+    color:rgb(5, 47, 254); ;
+}
